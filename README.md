@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 ```
 
 How to reach me:
-* <a href="https://mail.google.com/mail/pasha.esca1a@gmail.com">GMAIL</a>
-* <a href="mailto:pasha.esca1a@gmail.com?subject=GITHUB%MESSAGE&cc=pasha.esca1a@gmail.com">GMAIL</a>
+* <a href="mailto:pasha.esca1a@gmail.com?subject='GITHUB MESSAGE'">GMAIL</a>
 
 Я изучаю программирование "ТАЙМЕР" часов
