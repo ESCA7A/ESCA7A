@@ -1,15 +1,72 @@
 ### Hi there 👋
-
-**ESCA7A/ESCA7A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+----
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+> 🔭 I’m currently working on ... <br>
+> 🌱 I’m currently learning ... <br>
+> 👯 I’m looking to collaborate on ... <br>
+> 🤔 I’m looking for help with ... <br>
+> 💬 Ask me about ... <br>
+> 📫 How to reach me: ... <br>
+> 😄 Pronouns: ... <br>
+> ⚡ Fun fact: ... <br>
+
+
+
+Доброго времени суток!
+
+Обо мне необходимо знать, что меня интересует развитие.
+Постоянно учусь и моя цель стать высококвалифицированным специалистом в области программирования.
+И что немало важно - самодисциплинирован.
+
+Если Вы как и я обладаете хорошими человеческими качествами, то мы определенно найдем общий язык.
+
+На момент 2022 года я погрузился технологии:
+```
+│
+├──`PHP 7, 8`:
+│ㅤㅤ├──────Знание стандартов PSR-4
+│ㅤㅤ├──────Читал man deployer
+│ㅤㅤ└──────Потрогал структуры данных и алгоритмы
+│
+├──`Magento 2.x`:
+│ㅤㅤ├──────Понимание развертки приложения
+│ㅤㅤ├──────Знания админ панели, понимание архитектуры
+│ㅤㅤ└──────В данный момент пишу кастомные симпл модули в рамках образовательных курсов
+│
+├──`Composer`:
+│ㅤㅤ├──────Понимание архитектуры
+│ㅤㅤ└──────Владение стандартными командами
+│
+├── `Docker, Docker-compose`:
+│ㅤㅤ├──────Понимание процесса развертки окружения
+│ㅤㅤ└──────Уверен что при необходимости соберу свои контейнеры и все будет работать
+│
+├──`laravel 9.x`:
+│ㅤㅤ└──────Мой проект "твиттер" есть на гитхабе
+│
+├──`HTML`
+│
+├──`Git`:
+│ㅤㅤ└──────Могу делать все дефолтные вещи нужные для работы :)
+│
+├──`SQL`:
+│ㅤㅤ└──────Знаю что перед update нужно сначала написать 'WHERE' :)
+│
+├── `NGINX`:
+│ㅤㅤ└──────Трогал для поднятия локалки
+│
+├──`UNIX`:
+│ㅤㅤ├──────90% времени провожу в этой среде
+│ㅤㅤ└──────Понимаю принцип архитектуры
+│
+├──`BASH`:
+│ㅤㅤ└──────Я написал срипт, для развертки окружения и сократил своим друзьям время
+│_______________________________________
+```
+
+How to reach me:
+* <a href="https://mail.google.com/mail/pasha.esca1a@gmail.com">GMAIL</a>
+* <a href="mailto:pasha.esca1a@gmail.com?subject=GITHUB%MESSAGE&cc=pasha.esca1a@gmail.com">GMAIL</a>
+
+Я изучаю программирование "ТАЙМЕР" часов
