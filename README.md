@@ -19,12 +19,12 @@
                                                                                           ><h2> такой требовательный к себе что иногда расстраиваюсь 🥹</h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/4UWwJUSEJFEAAAAi/bongo-cat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> очень музыкальный и пишу треки в FL studio 20 <a href="https://soundcloud.com/esca7a"><img style="width:10%" src="https://media.tenor.com/GcGmxJe-UrUAAAAi/soundcloud-check.gif"/></a></h2><br>
+                                                                                          ><h2> очень музыкальный и пишу треки в FL studio 20 <a href="https://soundcloud.com/esca7a"><img style="width:5%" src="https://img1.wsimg.com/isteam/ip/360c56bc-4b28-432d-9ad7-1d04712431a4/201d77aa-b085-42f9-a897-0daa8f1f69c8.jpg/:/cr=t:0%25"/></a></h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/O5eWLxAnEVQAAAAC/bug-cat-capoo-fat.gif" /> <p style='font-size:15px'
                                                                                           ><h2> видемейкер в Adobe after effects </h2><br>
     <img style="width:100px;" 
-     src="https://i.gifer.com/95lB.gif" /> <p style='font-size:15px'
+     src="https://media.tenor.com/61IRFBR1DH0AAAAi/capoo-blue.gif" /> <p style='font-size:15px'
                                                                                           ><h2> занимался спортом до 14 лет, а потом мне прострелли колено 🧙</h2><br>
   <blockquote>
 </details>
