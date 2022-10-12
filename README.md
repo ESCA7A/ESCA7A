@@ -1,7 +1,7 @@
 ## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖  <img style="width:4%" src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" /> 𝕀 𝕒𝕞 ℙ𝕒𝕤𝕙𝕒
 <!-- <img style="width:14%; transform: translate(-350px,0);" 
      src="https://i.gifer.com/origin/09/09fd35b35da1d556f7716228a16f5b43_w200.webp" /> -->
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 
 
@@ -129,6 +129,6 @@
     <img src="GMAIL"><a href="mailto:pasha.esca1a@gmail.com?subject='GITHUB MESSAGE'">𝔾𝕄𝔸𝕀𝕃</a> <br></img>
     <img src="TELEGRAM"><a href="https://t.me/esca7a">𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞</a> <br></img>
   </blockquote>
-</details>
-
-𓂀 𝕀 𝕒𝕞 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕒 "𝕋𝕀𝕄𝔼ℝ" 𝕔𝕝𝕠𝕔𝕜 𓂀
+</details>  
+       
+𓂀 𝕀 𝕒𝕞 𝕒 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕨𝕚𝕥𝕙 𝕥𝕙𝕖 "📅 𝟚𝟘𝟚𝟚" 𝕠𝕗 𝕥𝕙𝕖 𝕪𝕖𝕒𝕣 𓂀
