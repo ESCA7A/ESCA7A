@@ -5,33 +5,33 @@
 
 
 
-<details><summary> 🌱 about me</summary>
+<details><summary> 🌱 about me </summary>
   <h2></h2>
   <blockquote>
     <img style="width:100px;" 
      src="https://media.tenor.com/Oz17KlgG2GoAAAAi/peach-cat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> люблю развиваться 🤓</h2><br>
+                                                                                          ><h2> i like to develop 🤓</h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/hW43u6bpnRMAAAAi/capoo-bugcat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> мечтаю стать крутым разработчиком :D </h2><br>
+                                                                                          ><h2> i dream of becoming a cool developer :D </h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/xDxd1bVH4ccAAAAC/peach-peach-cat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> такой требовательный к себе что иногда расстраиваюсь 🥹</h2><br>
+                                                                                          ><h2> so demanding of myself that sometimes I get upset 🥹</h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/4UWwJUSEJFEAAAAi/bongo-cat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> очень музыкальный и пишу треки в FL studio 20 <a href="https://soundcloud.com/esca7a"><img style="width:5%" src="https://img1.wsimg.com/isteam/ip/360c56bc-4b28-432d-9ad7-1d04712431a4/201d77aa-b085-42f9-a897-0daa8f1f69c8.jpg/:/cr=t:0%25"/></a></h2><br>
+                                                                                          ><h2> very musical and I write tracks in FL studio 20 <a href="https://soundcloud.com/esca7a"><img style="width:5%" src="https://img1.wsimg.com/isteam/ip/360c56bc-4b28-432d-9ad7-1d04712431a4/201d77aa-b085-42f9-a897-0daa8f1f69c8.jpg/:/cr=t:0%25"/></a></h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/O5eWLxAnEVQAAAAC/bug-cat-capoo-fat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> видемейкер в Adobe after effects </h2><br>
+                                                                                          ><h2> videomaker in Adobe after effects </h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/61IRFBR1DH0AAAAi/capoo-blue.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> занимался спортом до 14 лет, а потом мне прострелли колено 🧙</h2><br>
+                                                                                          ><h2> I played sports until I was 14, and then I was shot in the knee 🧙</h2><br>
   <blockquote>
 </details>
 
 
 
- 🌱 Я начал изучать программирование в 2022 году и создал для вас директорию `source` что бы вы знали на каком я этапе:
+#### 𝕀 𝕤𝕥𝕒𝕣𝕥𝕖𝕕 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕚𝕟 𝟚𝟘𝟚𝟚 𝕒𝕟𝕕 𝕔𝕣𝕖𝕒𝕥𝕖𝕕 𝕒 `𝕤𝕠𝕦𝕣𝕔𝕖` 𝕕𝕚𝕣𝕖𝕔𝕥𝕠𝕣𝕪 𝕗𝕠𝕣 𝕪𝕠𝕦 𝕤𝕠 𝕥𝕙𝕒𝕥 𝕪𝕠𝕦 𝕨𝕠𝕦𝕝𝕕 𝕜𝕟𝕠𝕨 𝕒𝕥 𝕨𝕙𝕒𝕥 𝕤𝕥𝕒𝕘𝕖 𝕀 𝕒𝕞:
 
 <div style="padding: 50px;">
   <details>
