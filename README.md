@@ -19,7 +19,9 @@
                                                                                           ><h2> 𝕤𝕠 𝕕𝕖𝕞𝕒𝕟𝕕𝕚𝕟𝕘 𝕠𝕗 𝕞𝕪𝕤𝕖𝕝𝕗 𝕥𝕙𝕒𝕥 𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤 𝕀 𝕘𝕖𝕥 𝕦𝕡𝕤𝕖𝕥 🥹</h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/4UWwJUSEJFEAAAAi/bongo-cat.gif" /> <p style='font-size:15px'
-                                                                                          ><h2> 𝕧𝕖𝕣𝕪 𝕞𝕦𝕤𝕚𝕔𝕒𝕝 𝕒𝕟𝕕 𝕀 𝕨𝕣𝕚𝕥𝕖 𝕥𝕣𝕒𝕔𝕜𝕤 𝕚𝕟 𝔽𝕃 𝕤𝕥𝕦𝕕𝕚𝕠 𝟚𝟘 <a href="https://soundcloud.com/esca7a"><img style="width:5%" src="https://img1.wsimg.com/isteam/ip/360c56bc-4b28-432d-9ad7-1d04712431a4/201d77aa-b085-42f9-a897-0daa8f1f69c8.jpg/:/cr=t:0%25"/></a></h2><br>
+                                                                                          ><h2> 𝕧𝕖𝕣𝕪 𝕞𝕦𝕤𝕚𝕔𝕒𝕝 𝕒𝕟𝕕 𝕀 𝕨𝕣𝕚𝕥𝕖 𝕥𝕣𝕒𝕔𝕜𝕤 𝕚𝕟 𝔽𝕃 𝕤𝕥𝕦𝕕𝕚𝕠 𝟚𝟘 <a href="https://soundcloud.com/esca7a"><img style="width:5%" src="https://www.freepnglogos.com/uploads/soundcloud-logo-png/soundcloud-logo-soundcloud-icon-transparent-png-1.png"/>
+</a><a href="https://open.spotify.com/artist/6V7KXcEAqu7EcTPbJzEBuG"><img 
+src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" width="5%" /></a></h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/O5eWLxAnEVQAAAAC/bug-cat-capoo-fat.gif" /> <p style='font-size:15px'
                                                                                           ><h2> 𝕧𝕚𝕕𝕖𝕠𝕞𝕒𝕜𝕖𝕣 𝕚𝕟 𝔸𝕕𝕠𝕓𝕖 𝕒𝕗𝕥𝕖𝕣 𝕖𝕗𝕗𝕖𝕔𝕥𝕤 </h2><br>
@@ -30,6 +32,7 @@
 </details>
 
 
+     
 #### 𝕀 𝕤𝕥𝕒𝕣𝕥𝕖𝕕 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕚𝕟 𝟚𝟘𝟚𝟚 𝕒𝕟𝕕 𝕔𝕣𝕖𝕒𝕥𝕖𝕕 𝕒 `𝕤𝕠𝕦𝕣𝕔𝕖` 𝕕𝕚𝕣𝕖𝕔𝕥𝕠𝕣𝕪 𝕗𝕠𝕣 𝕪𝕠𝕦 𝕤𝕠 𝕥𝕙𝕒𝕥 𝕪𝕠𝕦 𝕨𝕠𝕦𝕝𝕕 𝕜𝕟𝕠𝕨 𝕒𝕥 𝕨𝕙𝕒𝕥 𝕤𝕥𝕒𝕘𝕖 𝕀 𝕒𝕞:
 
 <div style="padding: 50px;">
