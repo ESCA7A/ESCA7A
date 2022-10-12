@@ -34,7 +34,7 @@
 
 <div style="padding: 50px;">
   <details>
-    <summary> 𝕤𝕣𝕔 </summary>
+    <summary> 📁 𝕤𝕣𝕔 </summary>
     <blockquote>
       <details>
         <summary>ℙℍℙ</summary>
