@@ -52,6 +52,13 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
                 <summary>.𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕𝕚𝕟𝕘 𝕥𝕙𝕖 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥</summary>
                 <summary>.𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 𝕠𝕗 𝕥𝕙𝕖 𝕒𝕕𝕞𝕚𝕟 𝕡𝕒𝕟𝕖𝕝, 𝕦𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕𝕚𝕟𝕘 𝕠𝕗 𝕒𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥𝕦𝕣𝕖</summary>
                 <summary>.𝔸𝕥 𝕥𝕙𝕖 𝕞𝕠𝕞𝕖𝕟𝕥 𝕀 𝕒𝕞 𝕨𝕣𝕚𝕥𝕚𝕟𝕘 𝕔𝕦𝕤𝕥𝕠𝕞 𝕤𝕚𝕞𝕡𝕝𝕖 𝕞𝕠𝕕𝕦𝕝𝕖𝕤 𝕒𝕤 𝕡𝕒𝕣𝕥 𝕠𝕗 𝕖𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟𝕒𝕝 𝕔𝕠𝕦𝕣𝕤𝕖𝕤</summary>
+                <summary>.𝕝𝕒𝕪𝕠𝕦𝕥.𝕩𝕞𝕝</summary>
+                <summary>.𝕔𝕠𝕟𝕥𝕣𝕠𝕝𝕝𝕖𝕣</summary>
+                <summary>.𝕧𝕚𝕖𝕨 𝕞𝕠𝕕𝕖𝕝</summary>
+                <summary>.𝕖𝕧𝕖𝕟𝕥𝕤/𝕠𝕓𝕤𝕖𝕣𝕧𝕖𝕣𝕤</summary>
+                <summary>.𝕞𝕠𝕕𝕖𝕝 | 𝕣𝕖𝕤𝕠𝕦𝕣𝕔𝕖 𝕞𝕠𝕕𝕖𝕝 | 𝕔𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟</summary>
+                <summary>.𝕕𝕚.𝕩𝕞𝕝</summary>
+                <summary>.𝕓𝕝𝕠𝕔𝕜.𝕡𝕙𝕥𝕞𝕝</summary>
            </blockquote>
       </details>
       <details>
@@ -60,7 +67,7 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
                 <summary>.𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕𝕚𝕟𝕘 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥𝕦𝕣𝕖</summary>
                 <summary>.𝕆𝕨𝕟𝕖𝕣𝕤𝕙𝕚𝕡 𝕠𝕗 𝕤𝕥𝕒𝕟𝕕𝕒𝕣𝕕 𝕔𝕠𝕞𝕞𝕒𝕟𝕕𝕤</summary>
                 <summary>.𝕝𝕠𝕒𝕕 𝕒𝕟𝕕 𝕕𝕖𝕝𝕖𝕥𝕖 𝕞𝕠𝕕𝕦𝕝𝕖𝕤</summary>
-                <summary>.𝕚𝕟 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤, 𝕀 𝕒𝕝𝕨𝕒𝕪𝕤 𝕦𝕤𝕖 𝕒𝕦𝕥𝕠𝕝𝕠𝕒𝕕𝕖𝕣</summary>
+                <summary>.𝕚𝕟 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤, 𝕀 𝕦𝕤𝕖 𝕒𝕦𝕥𝕠𝕝𝕠𝕒𝕕𝕖𝕣</summary>
            </blockquote>
       </details>
       <details>
@@ -86,7 +93,7 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
       <details>
         <summary>ℍ𝕋𝕄𝕃</summary>
             <blockquote>
-                <summary>.𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕 𝕤𝕪𝕟𝕥𝕒𝕩</summary>
+                <summary>.𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕</summary>
            </blockquote>
          </details>
       <details>
@@ -101,6 +108,7 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
         <summary>𝕊ℚ𝕃</summary>
             <blockquote>
                 <summary>.𝕀 𝕜𝕟𝕠𝕨 𝕥𝕙𝕒𝕥 𝕓𝕖𝕗𝕠𝕣𝕖 "𝕦𝕡𝕕𝕒𝕥𝕖" 𝕪𝕠𝕦 𝕟𝕖𝕖𝕕 𝕥𝕠 𝕗𝕚𝕣𝕤𝕥 𝕨𝕣𝕚𝕥𝕖 "𝕎ℍ𝔼ℝ𝔼" :)</summary>
+                 <summary>.𝕀 𝕦𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕 𝕨𝕙𝕪 𝕒 𝕥𝕣𝕒𝕟𝕤𝕒𝕔𝕥𝕚𝕠𝕟 𝕚𝕤 𝕟𝕖𝕖𝕕𝕖𝕕</summary>
            </blockquote>
          </details>
       <details>
@@ -114,6 +122,7 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
             <blockquote>
                 <summary>.𝕀 𝕤𝕡𝕖𝕟𝕕 𝟡𝟘% 𝕠𝕗 𝕞𝕪 𝕥𝕚𝕞𝕖 𝕚𝕟 𝕥𝕙𝕚𝕤 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥</summary>
                 <summary>.𝕀 𝕦𝕟𝕕𝕖𝕣𝕤𝕥𝕒𝕟𝕕 𝕥𝕙𝕖 𝕡𝕣𝕚𝕟𝕔𝕚𝕡𝕝𝕖 𝕠𝕗 𝕒𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥𝕦𝕣𝕖</summary>
+                 <summary>.𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤 𝕀 𝕦𝕤𝕖 𝕙𝕥𝕠𝕡</summary>
            </blockquote>
          </details>
       <details>
