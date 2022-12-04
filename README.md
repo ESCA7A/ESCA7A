@@ -1,8 +1,5 @@
 ## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖  <img style="width:4%" src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" /> 𝕀 𝕒𝕞 ℙ𝕒𝕤𝕙𝕒
-<!-- <img style="width:14%; transform: translate(-350px,0);" 
-     src="https://i.gifer.com/origin/09/09fd35b35da1d556f7716228a16f5b43_w200.webp" /> -->
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
+<img align='right' width='300' src='https://raw.githubusercontent.com/ESCA7A/ESCA7A/main/lib/pasha_rabotkaet.gif'/>
 
 
 <details><summary> 🌱 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖 </summary>
