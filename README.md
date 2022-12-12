@@ -1,9 +1,8 @@
-## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖  <img style="width:4%" src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" /> 𝕀 𝕒𝕞 ℙ𝕒𝕤𝕙𝕒
-<img align='right' width='300' src='https://raw.githubusercontent.com/ESCA7A/ESCA7A/main/lib/pasha_rabotkaet.gif'/>
+## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖  <img style="width:30px" src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" /> 𝕀 𝕒𝕞 ℙ𝕒𝕤𝕙𝕒
+<img align='right' width='240px' src='https://raw.githubusercontent.com/ESCA7A/ESCA7A/main/lib/pasha_rabotkaet.gif'/>
 
 
 <details><summary> 🌱 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖 </summary>
-  <h2></h2>
   <blockquote>
     <img style="width:100px;" 
      src="https://media.tenor.com/Oz17KlgG2GoAAAAi/peach-cat.gif" /> <p style='font-size:15px'
