@@ -8,7 +8,7 @@
      src="https://media.tenor.com/Oz17KlgG2GoAAAAi/peach-cat.gif" /> <p style='font-size:15px'
                                                                                           ><h2> 𝕚 𝕝𝕚𝕜𝕖 𝕥𝕠 𝕕𝕖𝕧𝕖𝕝𝕠𝕡 🤓</h2><br>
     <img style="width:100px;" 
-     src="https://media.tenor.com/hW43u6bpnRMAAAAi/capoo-bugcat.gif" /> <p style='font-size:15px'
+     src="https://media.tenor.com/sgK8603Um58AAAAi/kitty-cat.gif" /> <p style='font-size:15px'
                                                                                           ><h2> 𝕚 𝕕𝕣𝕖𝕒𝕞 𝕠𝕗 𝕓𝕖𝕔𝕠𝕞𝕚𝕟𝕘 𝕒 𝕔𝕠𝕠𝕝 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 :D </h2><br>
     <img style="width:100px;" 
      src="https://media.tenor.com/xDxd1bVH4ccAAAAC/peach-peach-cat.gif" /> <p style='font-size:15px'
@@ -22,7 +22,7 @@ src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-
      src="https://media.tenor.com/O5eWLxAnEVQAAAAC/bug-cat-capoo-fat.gif" /> <p style='font-size:15px'
                                                                                           ><h2> 𝕧𝕚𝕕𝕖𝕠𝕞𝕒𝕜𝕖𝕣 𝕚𝕟 𝔸𝕕𝕠𝕓𝕖 𝕒𝕗𝕥𝕖𝕣 𝕖𝕗𝕗𝕖𝕔𝕥𝕤 </h2><br>
     <img style="width:100px;" 
-     src="https://media.tenor.com/61IRFBR1DH0AAAAi/capoo-blue.gif" /> <p style='font-size:15px'
+     src="https://media.tenor.com/z4B8aQE5CywAAAAj/blue-bugcat-capoo.gif" /> <p style='font-size:15px'
                                                                                           ><h2> 𝕀 𝕡𝕝𝕒𝕪𝕖𝕕 𝕤𝕡𝕠𝕣𝕥𝕤 𝕦𝕟𝕥𝕚𝕝 𝕀 𝕨𝕒𝕤 𝟙𝟜, 𝕒𝕟𝕕 𝕥𝕙𝕖𝕟 𝕀 𝕨𝕒𝕤 𝕤𝕙𝕠𝕥 𝕚𝕟 𝕥𝕙𝕖 𝕜𝕟𝕖𝕖 🧙</h2><br>
   <blockquote>
 </details>
