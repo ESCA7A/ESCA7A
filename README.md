@@ -29,30 +29,25 @@
       <details>
         <summary>ℙℍℙ</summary>
         <blockquote>
-          <summary>. Применяю стандарты кодирования</summary>
-          <summary>. Люблю чистый код</summary>
-          <summary>. Могу читать и погружаться в чужую архитектуру</summary>
-          <summary>. Стараюсь следовать дизайну low coupling - high coheasion</summary>
-          <summary>. Работал с DDD (Domain-Driven Design), MVC, MVVC</summary>
+          <summary>. SOLID, работа с памятью, архитектура</summary>
         </blockquote>
       </details>
       <details>
         <summary>𝔻𝕠𝕔𝕜𝕖𝕣</summary>
         <blockquote>
-          <summary>. Мне нравятся преимущества которые нам дает докер</summary>
-          <summary>. Разбираюсь и могу писать докерфайлы (плюсом докер композы и конфигурации сервера)</summary>
+          <summary>. Только докер</summary>
         </blockquote>
       </details>
       <details>
         <summary>𝕃𝕒𝕣𝕒𝕧𝕖𝕝</summary>
         <blockquote>
-          <summary>. Отличный фреймворк. Люблю его за простоту в сложных вещах и аккуратный код</summary>
+          <summary>. Лаконичный, красивый</summary>
         </blockquote>
       </details>
       <details>
         <summary>𝕊ℚ𝕃</summary>
         <blockquote>
-          <summary>. мускул инфо</summary>
+          <summary>. Лучший из лучших</summary>
         </blockquote>
       </details>
       <details>
